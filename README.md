@@ -117,3 +117,4 @@ These are the SVGs for road shields, the dot used for city and town layers and t
 ## Have a look at ...
 
 - [OSM Liberty Topo](https://github.com/nst-guide/osm-liberty-topo) - a topographic fork of OSM Liberty
+- [TrailStash Liberty](https://gitlab.com/trailstash/liberty) - a fork of OSM Liberty Topo

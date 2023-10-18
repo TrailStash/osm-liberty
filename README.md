@@ -10,9 +10,9 @@ A free Mapbox GL basemap style for everyone with complete liberty to use and sel
 
 You can use the style in your Mapbox GL maps.
 
-By default, the vector tiles and glyphs are served from [Maptiler Cloud](https://www.maptiler.com/cloud/) and the raster tiles and sprites directly from GitHub.
-You would need to [subscribe](https://www.maptiler.com/cloud/plans) to Maptiler Cloud to get an access key and replace the placeholder {key} for the [vector source](https://github.com/maputnik/osm-liberty/blob/gh-pages/style.json#L11) and [glyphs](https://github.com/maputnik/osm-liberty/blob/gh-pages/style.json#L23) with your own key.
-
+By default, the vector tiles are served from [OSM Americana Community Vector Tile Server](https://tile.ourmap.us/) and the
+[raster tiles](https://github.com/TrailStash/naturalearthtiles) and [sprites](https://github.com/TrailStash/osm-liberty/tree/gh-pages/sprites)
+and [glyphs](https://github.com/TrailStash/openmaptiles-fonts) directly from GitHub.
 
 Another option is to create your own vector tiles with [OpenMapTiles](https://github.com/openmaptiles/openmaptiles) and host the tiles and assets yourself for complete liberty.
 
